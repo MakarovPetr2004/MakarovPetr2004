@@ -34,7 +34,4 @@
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 <br />
 
-#
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
