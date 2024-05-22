@@ -1,6 +1,9 @@
 # :v: Makarov Petr
 
-**`Backend Python Developer`**
+<p align="center">
+  <a href="ttps://hh.ru/resume/f71b73ceff0d2b5fa80039ed1f684d4f6e4131">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Always+learning+new;Python+Backend+Developer" /></a>
+</p>
 
 Мой интерес к области разработки начался ещё в подростковом возрасте. Именно поэтому пошёл в школу программистов, где обучался 7 лет. IT-индустрия для меня — осознанный выбор, обусловленный желанием применять свои аналитические способности для решения сложных задач. Python привлек меня своей гибкостью и широким спектром применений.
 
