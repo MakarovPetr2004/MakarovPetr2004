@@ -20,6 +20,8 @@
          <img alt="LinkedIn" title="My LinkedIn resume" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://t.me/makarov_petr">
          <img alt="Telegram" title="My Telegram" src="https://custom-icon-badges.demolab.com/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
+      <a href="mailto:makarov.petr2004@gmail.com">
+         <img alt="Gmail" title="My email address" src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
    </p>
 
 ---
