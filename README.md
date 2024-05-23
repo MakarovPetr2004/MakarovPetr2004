@@ -16,7 +16,7 @@
          <img alt="hh" title="My hh resume" src="https://custom-icon-badges.demolab.com/badge/hh.ru-CE4630?style=for-the-badge&logo=headhunter_logo&logoColor=white"/></a> 
       <a href="https://career.habr.com/makarovpetr12">
          <img alt="Habr" title="My Habr resume" src="https://custom-icon-badges.demolab.com/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white"/></a> 
-      <a href="">
+      <a href="https://www.linkedin.com/in/makarov-petr/">
          <img alt="LinkedIn" title="My LinkedIn resume" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://t.me/makarov_petr">
          <img alt="Telegram" title="My Telegram" src="https://custom-icon-badges.demolab.com/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
